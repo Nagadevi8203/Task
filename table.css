@@ -1,0 +1,10 @@
+table{
+    width:100%;
+}
+td{
+    text-align:center;
+}
+th,tr{
+    background-color: pink;
+    border-color: blue;
+}
